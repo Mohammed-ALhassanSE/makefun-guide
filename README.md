@@ -137,6 +137,8 @@ Your referral code lives on the Referrals tab of your profile, and at `https://m
 
 The tab states the current terms, including a reward per verified signup, a bonus when a referral makes their first submission, and a share of a referral's prizes for a limited window. Read the numbers there rather than trusting a guide, including this one: they change, and the tab is what settles it.
 
+For orientation, the referral endpoint answered this on 19 November 2026: 0.25 USD per verified signup with a cap of 20 counted signups, 1.00 USD when a referral makes their first submission, and 10% of a referral's prizes for 90 days. Treat those as a snapshot of that day, not as a promise. Nothing about a referral reward is taken out of the signup's own winnings.
+
 Two details from the rules are worth knowing before you share a link anywhere. A referral binds to the code a visitor's browser saw first, and that first touch holds for 60 days. And the same checks that decide which signups pay a referral reward decide which ones count at all, so signups that look like bots or clustered accounts are filtered out.
 
 If you want to enter through mine, the link is [make.fun/r/v2yymzzq](https://make.fun/r/v2yymzzq).
